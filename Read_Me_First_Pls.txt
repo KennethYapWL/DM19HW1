@@ -1,1 +1,0 @@
-Due to I'm still new to Github stuff, there are some problems occured when I commited my work to Github, eg. some of the graph disappeared :(, some of the descriptions didn't show up as well. I would much appreciate if you can download it first then examine the code(Once you downloaded and open it, it should be works fine:) ).
